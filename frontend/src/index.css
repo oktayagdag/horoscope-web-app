@@ -1,0 +1,10 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul{display:table; width:100%; padding:0;}
+li{display:table-row;}
+li span{display:table-cell; text-align:left;}
