@@ -137,9 +137,6 @@ export default function HorosCopeDetails(props){
       addPropert={addPropert}
       />
     )}
-
-{proPert && proPert.length ? '' : 'Yorum Eklemediniz.'}
-    <hr />
  
         </div>
          </>

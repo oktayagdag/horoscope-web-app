@@ -6,7 +6,7 @@ import {
 } from 'mdb-react-ui-kit';
 
 export default function App() {
-  const [showNavCentred, setShowNavCentred] = useState(false);
+  const [showNavCentred] = useState(false);
   return (
    <div >
     <MDBNavbar light bgColor='light'>
